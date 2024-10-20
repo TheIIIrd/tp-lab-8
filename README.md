@@ -1,6 +1,4 @@
-[![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
-
-# tp-lab08
+# tp-lab-8 [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
 Study of application deployment and management automation systems using Docker as an example.
 
 ## Tutorial
